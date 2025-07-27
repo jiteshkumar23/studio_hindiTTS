@@ -99,13 +99,13 @@ const Home: FC = () => {
         <div className="flex flex-col items-center justify-center text-center">
           <Volume2 className="h-12 w-12 text-primary" />
           <h1 className="text-4xl font-headline font-bold mt-4">Bharati Voice</h1>
-          <p className="text-muted-foreground mt-2">Your words, in a beautiful Indian voice.</p>
+          <p className="text-muted-foreground mt-2">Your words, in a beautiful voice.</p>
         </div>
         <Card className="w-full shadow-lg rounded-xl">
           <CardHeader>
             <CardTitle className="text-2xl">Text-to-Speech Converter</CardTitle>
             <CardDescription>
-              Enter your text below to generate speech with a natural Indian female voice.
+              Enter your text below to generate speech with a natural female voice.
             </CardDescription>
           </CardHeader>
           <CardContent>

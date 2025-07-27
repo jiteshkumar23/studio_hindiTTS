@@ -4,9 +4,9 @@
 import wav from 'wav';
 
 /**
- * @fileOverview Text-to-speech flow using an Indian female voice.
+ * @fileOverview Text-to-speech flow using a female voice.
  *
- * - generateSpeech - A function that converts text to speech using an Indian female voice.
+ * - generateSpeech - A function that converts text to speech using a female voice.
  * - GenerateSpeechInput - The input type for the generateSpeech function.
  * - GenerateSpeechOutput - The return type for the generateSpeech function.
  */

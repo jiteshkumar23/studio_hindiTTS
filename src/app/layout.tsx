@@ -4,7 +4,7 @@ import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
   title: 'Bharati Voice',
-  description: 'Convert text to speech with a beautiful Indian female voice.',
+  description: 'Convert text to speech with a beautiful voice.',
 };
 
 export default function RootLayout({
