@@ -66,7 +66,7 @@ const generateSpeechFlow = ai.defineFlow(
         responseModalities: ['AUDIO'],
         speechConfig: {
           voiceConfig: {
-            prebuiltVoiceConfig: {voiceName: 'Polis'},
+            prebuiltVoiceConfig: {voiceName: 'Algenib'},
           },
         },
       },
